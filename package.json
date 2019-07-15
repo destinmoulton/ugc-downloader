@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "download": "^6.2.5",
+    "download": "^7.1.0",
     "x-ray": "^2.3.2"
   }
 }
